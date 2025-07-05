@@ -3806,7 +3806,7 @@ function library:Load(options)
 end
 
 return library
--- ESP CODE 0xx0
+-- CHAMS CODE 0xx0
 -- Table of colours to choose from
 local colourTable = {
     Green = Color3.fromRGB(0, 255, 0),
